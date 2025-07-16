@@ -19,7 +19,6 @@ A colorful, interactive command-line calculator built in Python. This project su
 ## 📦 Requirements
 
 - Python 3.x
-- [colorama](https://pypi.org/project/colorama/)
 
 Install dependencies:
 
@@ -47,11 +46,10 @@ README.md       # Project documentation
 ---
 
 ## 📸 Preview
-![CLI Calculator Screenshot](images/screenshot.png)
 
 bash
 ╔══════════════════════════════════╗
-Welcome to the Python CLI Calculator!
+        Welcome to the Python CLI Calculator!
 ╚══════════════════════════════════╝
 
 Select operation:
