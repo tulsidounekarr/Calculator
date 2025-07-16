@@ -67,8 +67,7 @@ Select operation:
 
 - GitHub: [@tulsidounekarr](https://github.com/tulsidounekarr)
 
-![CLI Calculator Preview](D:\python_practice\python-workspace/calculator_preview.png)
-
+![CLI Calculator Preview](D:\python_practice/calculator_preview.png)
 
 ---
 
