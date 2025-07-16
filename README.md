@@ -67,6 +67,9 @@ Select operation:
 
 - GitHub: [@tulsidounekarr](https://github.com/tulsidounekarr)
 
+- ![Preview](screenshot.png)
+
+
 ---
 
 ## 📄 License
