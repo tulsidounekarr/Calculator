@@ -50,7 +50,7 @@ README.md       # Project documentation
 
 bash
 ╔══════════════════════════════════╗
-     Welcome to the Python CLI Calculator!
+Welcome to the Python CLI Calculator!
 ╚══════════════════════════════════╝
 
 Select operation:
@@ -67,7 +67,7 @@ Select operation:
 
 - GitHub: [@tulsidounekarr](https://github.com/tulsidounekarr)
 
-- ![Preview](screenshot.png)
+![CLI Calculator Preview](D:\python_practice\python-workspace/calculator_preview.png)
 
 
 ---
