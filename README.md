@@ -47,6 +47,7 @@ README.md       # Project documentation
 ---
 
 ## 📸 Preview
+![CLI Calculator Screenshot](images/screenshot.png)
 
 bash
 ╔══════════════════════════════════╗
@@ -67,7 +68,6 @@ Select operation:
 
 - GitHub: [@tulsidounekarr](https://github.com/tulsidounekarr)
 
-![CLI Calculator Preview](D:\python_practice/calculator_preview.png)
 
 ---
 
