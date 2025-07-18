@@ -47,6 +47,11 @@ README.md       # Project documentation
 
 ## 📸 Preview
 
+<p align="center">
+  <img src="images/screenshot.png" alt="To-Do CLI Preview" width="600"/>
+</p>
+
+
 bash
 ╔══════════════════════════════════╗
         Welcome to the Python CLI Calculator!
